@@ -1,7 +1,4 @@
-# CODSOFT Task 3: ATM Interface
-Java Internship Tasks – July 2025 (CodSoft)
-
-ATM Interface — Java Console Application
+# ATM Interface - Java Console Application
 
 This repository contains a Java-based console application that simulates basic ATM functionalities. Developed as part of the CodSoft Internship Task 3, the project demonstrates object-oriented programming (OOP) principles through a simplified banking interface.
 
