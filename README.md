@@ -25,3 +25,5 @@ This repository contains a Java-based console application that simulates basic A
 💻 Technologies Used:-
 
 • Java Language
+
+🌐 LinkedIn Post: https://www.linkedin.com/posts/kritisethi2006_javaprojects-atminterface-consoleapp-activity-7352030692463071232-i17Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
