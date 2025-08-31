@@ -2,11 +2,11 @@
 
 This repository contains a Java-based console application that simulates basic ATM functionalities. The project demonstrates object-oriented programming (OOP) principles through a simplified banking interface.
 
-⚙️ Features:-
+**⚙️ Code Features:-**
 
-🔹 Authentication: User logs in with basic credentials.
+🔹 **Authentication:** User logs in with basic credentials.
 
-🔹 Account Operations: 
+🔹 **Account Operations:** 
   
   - Check account balance
                 
@@ -18,12 +18,12 @@ This repository contains a Java-based console application that simulates basic A
                        
   - Exit application gracefully
 
-🔹 Console Menu: Interactive text-based navigation with numbered options.
+🔹 **Console Menu:** Interactive text-based navigation with numbered options.
 
-🔹 Input Validation: Handles invalid inputs and ensures secure transactions.
+🔹 **Input Validation:** Handles invalid inputs and ensures secure transactions.
 
-💻 Technologies Used:-
+**💻 Technologies Used:-**
 
 • Java Language
 
-🌐 LinkedIn Post: https://www.linkedin.com/posts/kritisethi2006_javaprojects-atminterface-consoleapp-activity-7352030692463071232-i17Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
+**🌐 LinkedIn Post:** https://www.linkedin.com/posts/kritisethi2006_javaprojects-atminterface-consoleapp-activity-7352030692463071232-i17Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
